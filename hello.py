@@ -2,4 +2,7 @@ Python 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit 
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> print('hello python & git')
 hello python & git
->>> 
+>>> print('hello python & git rock')
+
+
+
